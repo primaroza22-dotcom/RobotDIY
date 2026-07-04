@@ -1,1 +1,3 @@
-Sprint-001: Chassis + Motor + ESP32
+# Sprint 001
+
+Initial foundation for DroneAI Engineering Platform.
